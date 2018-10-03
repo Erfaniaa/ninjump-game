@@ -1,0 +1,542 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Back.png</Source>
+      <Name>Back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\Back.xnb</Output>
+      <Time>2016-01-18T15:08:44+03:30</Time>
+    </Item>
+    <Item>
+      <Source>balcony.png</Source>
+      <Name>balcony</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\balcony.xnb</Output>
+      <Time>2016-01-18T15:08:44+03:30</Time>
+    </Item>
+    <Item>
+      <Source>BirdAnimation.png</Source>
+      <Name>BirdAnimation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\BirdAnimation.xnb</Output>
+      <Time>2016-01-22T22:16:16+03:30</Time>
+    </Item>
+    <Item>
+      <Source>Climber.png</Source>
+      <Name>Climber</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\Climber.xnb</Output>
+      <Time>2016-01-18T15:08:44+03:30</Time>
+    </Item>
+    <Item>
+      <Source>ClimberFlipped.png</Source>
+      <Name>ClimberFlipped</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\ClimberFlipped.xnb</Output>
+      <Time>2016-01-18T15:08:44+03:30</Time>
+    </Item>
+    <Item>
+      <Source>ClimbingAnimation.png</Source>
+      <Name>ClimbingAnimation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\ClimbingAnimation.xnb</Output>
+      <Time>2016-01-18T15:08:44+03:30</Time>
+    </Item>
+    <Item>
+      <Source>ClimbingAnimationFlip.png</Source>
+      <Name>ClimbingAnimationFlip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\ClimbingAnimationFlip.xnb</Output>
+      <Time>2016-01-18T15:08:44+03:30</Time>
+    </Item>
+    <Item>
+      <Source>continue_button.png</Source>
+      <Name>continue_button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\continue_button.xnb</Output>
+      <Time>2016-01-18T15:08:44+03:30</Time>
+    </Item>
+    <Item>
+      <Source>Exit.png</Source>
+      <Name>Exit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\Exit.xnb</Output>
+      <Time>2016-01-18T15:08:44+03:30</Time>
+    </Item>
+    <Item>
+      <Source>FlippedBalcony.png</Source>
+      <Name>FlippedBalcony</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\FlippedBalcony.xnb</Output>
+      <Time>2016-01-18T15:08:44+03:30</Time>
+    </Item>
+    <Item>
+      <Source>FlippedBirdAnimation.png</Source>
+      <Name>FlippedBirdAnimation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\FlippedBirdAnimation.xnb</Output>
+      <Time>2016-01-22T22:16:04+03:30</Time>
+    </Item>
+    <Item>
+      <Source>FlippedOverhang.png</Source>
+      <Name>FlippedOverhang</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\FlippedOverhang.xnb</Output>
+      <Time>2016-01-18T15:08:44+03:30</Time>
+    </Item>
+    <Item>
+      <Source>Foreground.png</Source>
+      <Name>Foreground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\Foreground.xnb</Output>
+      <Time>2016-01-18T15:08:44+03:30</Time>
+    </Item>
+    <Item>
+      <Source>GameOver.png</Source>
+      <Name>GameOver</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\GameOver.xnb</Output>
+      <Time>2016-01-18T15:08:44+03:30</Time>
+    </Item>
+    <Item>
+      <Source>laundry.png</Source>
+      <Name>laundry</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\laundry.xnb</Output>
+      <Time>2016-01-18T15:08:46+03:30</Time>
+    </Item>
+    <Item>
+      <Source>Main.jpg</Source>
+      <Name>Main</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\Main.xnb</Output>
+      <Time>2016-01-19T17:26:24+03:30</Time>
+    </Item>
+    <Item>
+      <Source>menu_button.png</Source>
+      <Name>menu_button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\menu_button.xnb</Output>
+      <Time>2016-01-18T15:08:46+03:30</Time>
+    </Item>
+    <Item>
+      <Source>OffButton1.png</Source>
+      <Name>OffButton1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\OffButton1.xnb</Output>
+      <Time>2016-01-19T17:37:44+03:30</Time>
+    </Item>
+    <Item>
+      <Source>OffButton2.png</Source>
+      <Name>OffButton2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\OffButton2.xnb</Output>
+      <Time>2016-01-19T17:37:54+03:30</Time>
+    </Item>
+    <Item>
+      <Source>OnButton1.png</Source>
+      <Name>OnButton1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\OnButton1.xnb</Output>
+      <Time>2016-01-19T17:38:06+03:30</Time>
+    </Item>
+    <Item>
+      <Source>OnButton2.png</Source>
+      <Name>OnButton2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\OnButton2.xnb</Output>
+      <Time>2016-01-19T17:38:18+03:30</Time>
+    </Item>
+    <Item>
+      <Source>Options.png</Source>
+      <Name>Options</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\Options.xnb</Output>
+      <Time>2016-01-18T15:08:46+03:30</Time>
+    </Item>
+    <Item>
+      <Source>OptionsBackground.jpg</Source>
+      <Name>OptionsBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\OptionsBackground.xnb</Output>
+      <Time>2016-01-19T17:25:34+03:30</Time>
+    </Item>
+    <Item>
+      <Source>overhang.png</Source>
+      <Name>overhang</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\overhang.xnb</Output>
+      <Time>2016-01-18T15:08:46+03:30</Time>
+    </Item>
+    <Item>
+      <Source>pause_menu.png</Source>
+      <Name>pause_menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\pause_menu.xnb</Output>
+      <Time>2016-01-18T15:08:46+03:30</Time>
+    </Item>
+    <Item>
+      <Source>Play.png</Source>
+      <Name>Play</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\Play.xnb</Output>
+      <Time>2016-01-18T15:08:46+03:30</Time>
+    </Item>
+    <Item>
+      <Source>PlayAgain.png</Source>
+      <Name>PlayAgain</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\PlayAgain.xnb</Output>
+      <Time>2016-01-19T19:47:22+03:30</Time>
+    </Item>
+    <Item>
+      <Source>PlayingBackground.jpg</Source>
+      <Name>PlayingBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\PlayingBackground.xnb</Output>
+      <Time>2016-01-18T15:08:46+03:30</Time>
+    </Item>
+    <Item>
+      <Source>score_bar.png</Source>
+      <Name>score_bar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\score_bar.xnb</Output>
+      <Time>2016-01-18T15:08:46+03:30</Time>
+    </Item>
+    <Item>
+      <Source>Shuriken.png</Source>
+      <Name>Shuriken</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\Shuriken.xnb</Output>
+      <Time>2016-01-22T22:11:54+03:30</Time>
+    </Item>
+    <Item>
+      <Source>Squirrel.png</Source>
+      <Name>Squirrel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\Squirrel.xnb</Output>
+      <Time>2016-01-18T15:08:46+03:30</Time>
+    </Item>
+    <Item>
+      <Source>SquirrelFlipped.png</Source>
+      <Name>SquirrelFlipped</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\SquirrelFlipped.xnb</Output>
+      <Time>2016-01-18T15:08:46+03:30</Time>
+    </Item>
+    <Item>
+      <Source>Thrower.png</Source>
+      <Name>Thrower</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\Thrower.xnb</Output>
+      <Time>2016-01-18T15:08:46+03:30</Time>
+    </Item>
+    <Item>
+      <Source>ThrowerFlipped.png</Source>
+      <Name>ThrowerFlipped</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\ThrowerFlipped.xnb</Output>
+      <Time>2016-01-18T15:08:46+03:30</Time>
+    </Item>
+    <Item>
+      <Source>Wall.png</Source>
+      <Name>Wall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\Wall.xnb</Output>
+      <Time>2016-01-18T15:08:46+03:30</Time>
+    </Item>
+    <Item>
+      <Source>laundryFlipped.png</Source>
+      <Name>laundryFlipped</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\laundryFlipped.xnb</Output>
+      <Time>2016-01-18T15:20:14+03:30</Time>
+    </Item>
+    <Item>
+      <Source>JumpingAnimation.png</Source>
+      <Name>JumpingAnimation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\JumpingAnimation.xnb</Output>
+      <Time>2016-01-18T16:02:22+03:30</Time>
+    </Item>
+    <Item>
+      <Source>FallingAnimation.png</Source>
+      <Name>FallingAnimation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\FallingAnimation.xnb</Output>
+      <Time>2016-01-19T21:22:32+03:30</Time>
+    </Item>
+    <Item>
+      <Source>backplay2.png</Source>
+      <Name>backplay2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\backplay2.xnb</Output>
+      <Time>2016-01-12T01:26:50+03:30</Time>
+    </Item>
+    <Item>
+      <Source>PlayingBackground2.png</Source>
+      <Name>PlayingBackground2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\PlayingBackground2.xnb</Output>
+      <Time>2016-01-12T01:26:50+03:30</Time>
+    </Item>
+    <Item>
+      <Source>ShieldBig.png</Source>
+      <Name>ShieldBig</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\ShieldBig.xnb</Output>
+      <Time>2015-09-22T16:11:22+03:30</Time>
+    </Item>
+    <Item>
+      <Source>ShieldSmall.png</Source>
+      <Name>ShieldSmall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\ShieldSmall.xnb</Output>
+      <Time>2016-01-20T18:02:46+03:30</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2016-01-23T03:17:52+03:30</Time>
+    </Item>
+    <Item>
+      <Source>BirdBonus1.wav</Source>
+      <Name>BirdBonus1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\BirdBonus1.xnb</Output>
+      <Time>2016-01-23T00:39:52+03:30</Time>
+    </Item>
+    <Item>
+      <Source>footsteps.wav</Source>
+      <Name>footsteps</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\footsteps.xnb</Output>
+      <Time>2016-01-23T00:39:52+03:30</Time>
+    </Item>
+    <Item>
+      <Source>hit_bird_1.wav</Source>
+      <Name>hit_bird_1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\hit_bird_1.xnb</Output>
+      <Time>2016-01-23T00:39:52+03:30</Time>
+    </Item>
+    <Item>
+      <Source>jump_7.wav</Source>
+      <Name>jump_7</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\jump_7.xnb</Output>
+      <Time>2016-01-23T00:39:52+03:30</Time>
+    </Item>
+    <Item>
+      <Source>ShurikenHit.wav</Source>
+      <Name>ShurikenHit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\ShurikenHit.xnb</Output>
+      <Time>2016-01-23T00:39:52+03:30</Time>
+    </Item>
+    <Item>
+      <Source>SquirrelBonus1.wav</Source>
+      <Name>SquirrelBonus1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\SquirrelBonus1.xnb</Output>
+      <Time>2016-01-23T00:39:52+03:30</Time>
+    </Item>
+    <Item>
+      <Source>SquirrelHit.wav</Source>
+      <Name>SquirrelHit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\SquirrelHit.xnb</Output>
+      <Time>2016-01-23T00:39:52+03:30</Time>
+    </Item>
+    <Item>
+      <Source>StarBonus.wav</Source>
+      <Name>StarBonus</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\StarBonus.xnb</Output>
+      <Time>2016-01-23T00:39:52+03:30</Time>
+    </Item>
+    <Item>
+      <Source>fall.wav</Source>
+      <Name>fall</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\fall.xnb</Output>
+      <Time>2016-01-23T01:06:34+03:30</Time>
+    </Item>
+    <Item>
+      <Source>You Are So Fucked.wav</Source>
+      <Name>You Are So Fucked</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\You Are So Fucked.xnb</Output>
+      <Time>2016-01-23T03:41:18+03:30</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont2.spritefont</Source>
+      <Name>SpriteFont2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\SpriteFont2.xnb</Output>
+      <Time>2016-01-23T03:17:00+03:30</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont3.spritefont</Source>
+      <Name>SpriteFont3</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\SpriteFont3.xnb</Output>
+      <Time>2016-01-23T03:23:18+03:30</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{3C164B7D-4EB5-45D3-8E56-5F3DE6DFF2BC}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>F:\New folder (2) - Copy\Game2\Game1\Game1Content\</RootDirectory>
+      <LoggerRootDirectory>F:\New folder (2) - Copy\Game2\Game1\Game1\</LoggerRootDirectory>
+      <IntermediateDirectory>F:\New folder (2) - Copy\Game2\Game1\Game1\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+04:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+04:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+04:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+04:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+04:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+04:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-12-15T17:12:17.6542946+03:30</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

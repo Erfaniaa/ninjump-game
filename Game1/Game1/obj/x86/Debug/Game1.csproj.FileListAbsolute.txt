@@ -1,0 +1,174 @@
+c:\users\erfan\documents\visual studio 2015\Projects\Game1\Game1\Game1\obj\x86\Debug\Game1.csprojResolveAssemblyReference.cache
+c:\users\erfan\documents\visual studio 2015\Projects\Game1\Game1\Game1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\erfan\documents\visual studio 2015\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\Back.xnb
+c:\users\erfan\documents\visual studio 2015\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\balcony.xnb
+c:\users\erfan\documents\visual studio 2015\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\BirdAnimation.xnb
+c:\users\erfan\documents\visual studio 2015\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\Climber.xnb
+c:\users\erfan\documents\visual studio 2015\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\ClimberFlipped.xnb
+c:\users\erfan\documents\visual studio 2015\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\ClimbingAnimation.xnb
+c:\users\erfan\documents\visual studio 2015\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\ClimbingAnimationFlip.xnb
+c:\users\erfan\documents\visual studio 2015\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\continue_button.xnb
+c:\users\erfan\documents\visual studio 2015\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\Exit.xnb
+c:\users\erfan\documents\visual studio 2015\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\FlippedBalcony.xnb
+c:\users\erfan\documents\visual studio 2015\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\FlippedBirdAnimation.xnb
+c:\users\erfan\documents\visual studio 2015\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\FlippedOverhang.xnb
+c:\users\erfan\documents\visual studio 2015\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\Foreground.xnb
+c:\users\erfan\documents\visual studio 2015\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\GameOver.xnb
+c:\users\erfan\documents\visual studio 2015\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\JumpingAnimation.xnb
+c:\users\erfan\documents\visual studio 2015\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\laundry.xnb
+c:\users\erfan\documents\visual studio 2015\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\Main.xnb
+c:\users\erfan\documents\visual studio 2015\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\menu_button.xnb
+c:\users\erfan\documents\visual studio 2015\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\OffButton1.xnb
+c:\users\erfan\documents\visual studio 2015\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\OffButton2.xnb
+c:\users\erfan\documents\visual studio 2015\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\OnButton1.xnb
+c:\users\erfan\documents\visual studio 2015\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\OnButton2.xnb
+c:\users\erfan\documents\visual studio 2015\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\Options.xnb
+c:\users\erfan\documents\visual studio 2015\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\OptionsBackground.xnb
+c:\users\erfan\documents\visual studio 2015\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\overhang.xnb
+c:\users\erfan\documents\visual studio 2015\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\pause_menu.xnb
+c:\users\erfan\documents\visual studio 2015\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\Play.xnb
+c:\users\erfan\documents\visual studio 2015\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\PlayAgain.xnb
+c:\users\erfan\documents\visual studio 2015\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\PlayingBackground.xnb
+c:\users\erfan\documents\visual studio 2015\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\score_bar.xnb
+c:\users\erfan\documents\visual studio 2015\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\Shuriken.xnb
+c:\users\erfan\documents\visual studio 2015\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\Squirrel.xnb
+c:\users\erfan\documents\visual studio 2015\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\SquirrelFlipped.xnb
+c:\users\erfan\documents\visual studio 2015\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\Thrower.xnb
+c:\users\erfan\documents\visual studio 2015\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\ThrowerFlipped.xnb
+c:\users\erfan\documents\visual studio 2015\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\Wall.xnb
+c:\users\erfan\documents\visual studio 2015\Projects\Game1\Game1\Game1\bin\x86\Debug\Game1.exe
+c:\users\erfan\documents\visual studio 2015\Projects\Game1\Game1\Game1\bin\x86\Debug\Game1.pdb
+c:\users\erfan\documents\visual studio 2015\Projects\Game1\Game1\Game1\bin\x86\Debug\Microsoft.Xna.Framework.dll
+c:\users\erfan\documents\visual studio 2015\Projects\Game1\Game1\Game1\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+c:\users\erfan\documents\visual studio 2015\Projects\Game1\Game1\Game1\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+c:\users\erfan\documents\visual studio 2015\Projects\Game1\Game1\Game1\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+c:\users\erfan\documents\visual studio 2015\Projects\Game1\Game1\Game1\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+c:\users\erfan\documents\visual studio 2015\Projects\Game1\Game1\Game1\bin\x86\Debug\Microsoft.Xna.Framework.xml
+c:\users\erfan\documents\visual studio 2015\Projects\Game1\Game1\Game1\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+c:\users\erfan\documents\visual studio 2015\Projects\Game1\Game1\Game1\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+c:\users\erfan\documents\visual studio 2015\Projects\Game1\Game1\Game1\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+c:\users\erfan\documents\visual studio 2015\Projects\Game1\Game1\Game1\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+c:\users\erfan\documents\visual studio 2015\Projects\Game1\Game1\Game1\obj\x86\Debug\Game1.exe
+c:\users\erfan\documents\visual studio 2015\Projects\Game1\Game1\Game1\obj\x86\Debug\Game1.pdb
+c:\users\erfan\documents\visual studio 2015\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\laundryFlipped.xnb
+C:\Users\Erfan\Documents\Visual Studio 2015\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\User\Documents\Game1\Game1\Game1\obj\x86\Debug\Game1.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Game1\Game1\Game1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\User\Documents\Game1\Game1\Game1\obj\x86\Debug\Game1.exe
+C:\Users\User\Documents\Game1\Game1\Game1\obj\x86\Debug\Game1.pdb
+C:\Users\User\Documents\Game1\Game1\Game1\bin\x86\Debug\Content\Back.xnb
+C:\Users\User\Documents\Game1\Game1\Game1\bin\x86\Debug\Content\balcony.xnb
+C:\Users\User\Documents\Game1\Game1\Game1\bin\x86\Debug\Content\BirdAnimation.xnb
+C:\Users\User\Documents\Game1\Game1\Game1\bin\x86\Debug\Content\Climber.xnb
+C:\Users\User\Documents\Game1\Game1\Game1\bin\x86\Debug\Content\ClimberFlipped.xnb
+C:\Users\User\Documents\Game1\Game1\Game1\bin\x86\Debug\Content\ClimbingAnimation.xnb
+C:\Users\User\Documents\Game1\Game1\Game1\bin\x86\Debug\Content\ClimbingAnimationFlip.xnb
+C:\Users\User\Documents\Game1\Game1\Game1\bin\x86\Debug\Content\continue_button.xnb
+C:\Users\User\Documents\Game1\Game1\Game1\bin\x86\Debug\Content\Exit.xnb
+C:\Users\User\Documents\Game1\Game1\Game1\bin\x86\Debug\Content\FlippedBalcony.xnb
+C:\Users\User\Documents\Game1\Game1\Game1\bin\x86\Debug\Content\FlippedBirdAnimation.xnb
+C:\Users\User\Documents\Game1\Game1\Game1\bin\x86\Debug\Content\FlippedOverhang.xnb
+C:\Users\User\Documents\Game1\Game1\Game1\bin\x86\Debug\Content\Foreground.xnb
+C:\Users\User\Documents\Game1\Game1\Game1\bin\x86\Debug\Content\GameOver.xnb
+C:\Users\User\Documents\Game1\Game1\Game1\bin\x86\Debug\Content\laundry.xnb
+C:\Users\User\Documents\Game1\Game1\Game1\bin\x86\Debug\Content\Main.xnb
+C:\Users\User\Documents\Game1\Game1\Game1\bin\x86\Debug\Content\menu_button.xnb
+C:\Users\User\Documents\Game1\Game1\Game1\bin\x86\Debug\Content\OffButton1.xnb
+C:\Users\User\Documents\Game1\Game1\Game1\bin\x86\Debug\Content\OffButton2.xnb
+C:\Users\User\Documents\Game1\Game1\Game1\bin\x86\Debug\Content\OnButton1.xnb
+C:\Users\User\Documents\Game1\Game1\Game1\bin\x86\Debug\Content\OnButton2.xnb
+C:\Users\User\Documents\Game1\Game1\Game1\bin\x86\Debug\Content\Options.xnb
+C:\Users\User\Documents\Game1\Game1\Game1\bin\x86\Debug\Content\OptionsBackground.xnb
+C:\Users\User\Documents\Game1\Game1\Game1\bin\x86\Debug\Content\overhang.xnb
+C:\Users\User\Documents\Game1\Game1\Game1\bin\x86\Debug\Content\pause_menu.xnb
+C:\Users\User\Documents\Game1\Game1\Game1\bin\x86\Debug\Content\Play.xnb
+C:\Users\User\Documents\Game1\Game1\Game1\bin\x86\Debug\Content\PlayAgain.xnb
+C:\Users\User\Documents\Game1\Game1\Game1\bin\x86\Debug\Content\PlayingBackground.xnb
+C:\Users\User\Documents\Game1\Game1\Game1\bin\x86\Debug\Content\score_bar.xnb
+C:\Users\User\Documents\Game1\Game1\Game1\bin\x86\Debug\Content\Shuriken.xnb
+C:\Users\User\Documents\Game1\Game1\Game1\bin\x86\Debug\Content\Squirrel.xnb
+C:\Users\User\Documents\Game1\Game1\Game1\bin\x86\Debug\Content\SquirrelFlipped.xnb
+C:\Users\User\Documents\Game1\Game1\Game1\bin\x86\Debug\Content\Thrower.xnb
+C:\Users\User\Documents\Game1\Game1\Game1\bin\x86\Debug\Content\ThrowerFlipped.xnb
+C:\Users\User\Documents\Game1\Game1\Game1\bin\x86\Debug\Content\Wall.xnb
+C:\Users\User\Documents\Game1\Game1\Game1\bin\x86\Debug\Content\laundryFlipped.xnb
+C:\Users\User\Documents\Game1\Game1\Game1\bin\x86\Debug\Content\JumpingAnimation.xnb
+C:\Users\User\Documents\Game1\Game1\Game1\bin\x86\Debug\Content\FallingAnimation.xnb
+C:\Users\User\Documents\Game1\Game1\Game1\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\User\Documents\Game1\Game1\Game1\bin\x86\Debug\Game1.exe
+C:\Users\User\Documents\Game1\Game1\Game1\bin\x86\Debug\Game1.pdb
+C:\Users\User\Documents\Game1\Game1\Game1\bin\x86\Debug\Content\backplay2.xnb
+C:\Users\User\Documents\Game1\Game1\Game1\bin\x86\Debug\Content\PlayingBackground2.xnb
+C:\Users\User\Documents\Game1\Game1\Game1\bin\x86\Debug\Content\ShieldBig.xnb
+C:\Users\User\Documents\Game1\Game1\Game1\bin\x86\Debug\Content\ShieldSmall.xnb
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\Back.xnb
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\balcony.xnb
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\BirdAnimation.xnb
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\Climber.xnb
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\ClimberFlipped.xnb
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\ClimbingAnimation.xnb
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\ClimbingAnimationFlip.xnb
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\continue_button.xnb
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\Exit.xnb
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\FlippedBalcony.xnb
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\FlippedBirdAnimation.xnb
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\FlippedOverhang.xnb
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\Foreground.xnb
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\GameOver.xnb
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\laundry.xnb
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\Main.xnb
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\menu_button.xnb
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\OffButton1.xnb
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\OffButton2.xnb
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\OnButton1.xnb
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\OnButton2.xnb
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\Options.xnb
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\OptionsBackground.xnb
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\overhang.xnb
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\pause_menu.xnb
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\Play.xnb
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\PlayAgain.xnb
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\PlayingBackground.xnb
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\score_bar.xnb
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\Shuriken.xnb
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\Squirrel.xnb
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\SquirrelFlipped.xnb
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\Thrower.xnb
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\ThrowerFlipped.xnb
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\Wall.xnb
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\laundryFlipped.xnb
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\JumpingAnimation.xnb
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\FallingAnimation.xnb
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\backplay2.xnb
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\PlayingBackground2.xnb
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\ShieldBig.xnb
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\ShieldSmall.xnb
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\SpriteFont1.xnb
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Game1.exe
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Game1.pdb
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Microsoft.Xna.Framework.dll
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Microsoft.Xna.Framework.xml
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+F:\New folder (2) - Copy\Game2\Game1\Game1\obj\x86\Debug\Game1.csprojResolveAssemblyReference.cache
+F:\New folder (2) - Copy\Game2\Game1\Game1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\New folder (2) - Copy\Game2\Game1\Game1\obj\x86\Debug\Game1.exe
+F:\New folder (2) - Copy\Game2\Game1\Game1\obj\x86\Debug\Game1.pdb
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\BirdBonus1.xnb
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\footsteps.xnb
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\hit_bird_1.xnb
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\jump_7.xnb
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\ShurikenHit.xnb
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\SquirrelBonus1.xnb
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\SquirrelHit.xnb
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\StarBonus.xnb
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\fall.xnb
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\You Are So Fucked.xnb
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\SpriteFont2.xnb
+F:\New folder (2) - Copy\Game2\Game1\Game1\bin\x86\Debug\Content\SpriteFont3.xnb

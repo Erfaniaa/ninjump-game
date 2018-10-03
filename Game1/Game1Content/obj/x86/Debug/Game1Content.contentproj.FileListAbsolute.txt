@@ -1,0 +1,3 @@
+c:\users\erfan\documents\visual studio 2015\Projects\Game1\Game1\Game1Content\obj\x86\Debug\Game1Content.contentprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Game1\Game1\Game1Content\obj\x86\Debug\Game1Content.contentprojResolveAssemblyReference.cache
+F:\New folder (2) - Copy\Game2\Game1\Game1Content\obj\x86\Debug\Game1Content.contentprojResolveAssemblyReference.cache
